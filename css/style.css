@@ -16,7 +16,7 @@ main {
 }
 
 img {
-  max-height: 800px;
+  max-height: 700px;
   width: 100%;
   object-fit: cover;
 }
